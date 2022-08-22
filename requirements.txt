@@ -1,0 +1,5 @@
+torch
+pandas
+torchcrf
+transfromers
+seqeval
