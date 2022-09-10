@@ -3,3 +3,4 @@ pandas
 torchcrf
 transfromers
 seqeval
+datasets
